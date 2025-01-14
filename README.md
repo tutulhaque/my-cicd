@@ -8,3 +8,5 @@ Continuous Integration Tools
   a simple example about how CI/CD works in github actions
 
 - example github action
+
+- example of github action, React24S
