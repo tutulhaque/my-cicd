@@ -10,3 +10,4 @@ Continuous Integration Tools
 - example github action
 
 - example of github action, React24S
+- Clone the repo and commit it to my repo
