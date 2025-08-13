@@ -16,6 +16,6 @@ jobs:
       #  run: echo "About to fail" ; exit 1
 
       - name: Another greeting
-        run: echo "Hello, CI/CD again!"
+        # run: echo "Hello, CI/CD again!"
 
         
